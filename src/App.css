@@ -1,0 +1,9 @@
+.App {
+	text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@500&display=swap");
+
+.font {
+	font-family: "Sora", sans-serif;
+	font-size: 3em;
+}

@@ -1,0 +1,19 @@
+.input {
+	width: 40em;
+	height: 2.5em;
+	border-radius: 1em;
+	margin-top: 1em;
+	outline: none;
+	border-color: blueviolet;
+	font-size: medium;
+	text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&display=swap");
+.font_type {
+	font-family: "Oxygen", sans-serif;
+	font-size: x-large;
+}
+.texty {
+	color: darkblue;
+	font-size: 2em;
+}

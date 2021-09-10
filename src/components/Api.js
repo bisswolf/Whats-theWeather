@@ -34,7 +34,9 @@ function Api() {
 						<p>No data found</p>
 					) : (
 						<div>
-							<h3>{city.temp} °C</h3>
+							<h3>Temprature:= {city.temp} °C</h3>
+							<h3>Humidity:= {city.humidity}%</h3>
+							<h3>ATM Pressure:= {city.pressure / 1000} bar</h3>
 						</div>
 					)}
 				</div>
